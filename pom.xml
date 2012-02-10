@@ -31,7 +31,7 @@ under the License.
    <groupId>com.github.igor-petruk.archetypes</groupId>
    <artifactId>maven-archetype-scala-executable</artifactId>
 	<packaging>jar</packaging>
-    <version>0.1</version>
+    <version>0.2-SNAPSHOT</version>
     <name>Executable Quickstart Scala Archetype</name>
     <description>
 		Creates executable Scala Project that is ready to run with 'java -jar'
